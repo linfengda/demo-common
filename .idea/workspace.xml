@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e7f5cf2-7f17-44c4-bea5-b5015f85919e" name="Default Changelist" comment="" />
+    <list default="true" id="3e7f5cf2-7f17-44c4-bea5-b5015f85919e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/demo-common-1.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/demo-common-1.0.1-SNAPSHOT.jar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2SDwdYgPDmMr8Y1jELLXTgUtsaB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -17,7 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.43793103" />
@@ -39,36 +50,61 @@
       <option name="presentableId" value="Default" />
       <updated>1688694546588</updated>
       <workItem from="1688694547951" duration="905000" />
+      <workItem from="1688724646216" duration="33000" />
+      <workItem from="1688787359661" duration="170000" />
+      <workItem from="1688815505927" duration="169000" />
+      <workItem from="1688815848658" duration="122000" />
+      <workItem from="1688822816407" duration="45000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: 提交">
+      <created>1688822844147</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688822844147</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: 提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="84" key="#Project_Structure" timestamp="1688694644001">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
     <state x="320" y="84" key="#Project_Structure/0.23.1440.792@0.23.1440.792" timestamp="1688694644001" />
-    <state width="1398" height="641" key="GridCell.Tab.0.bottom" timestamp="1688698940407">
+    <state x="303" y="23" width="833" height="792" key="CommitChangelistDialog2" timestamp="1688822843975">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
-    <state width="1398" height="641" key="GridCell.Tab.0.bottom/0.23.1440.792@0.23.1440.792" timestamp="1688698940407" />
-    <state width="1398" height="641" key="GridCell.Tab.0.center" timestamp="1688698940405">
+    <state x="303" y="23" width="833" height="792" key="CommitChangelistDialog2/0.23.1440.792@0.23.1440.792" timestamp="1688822843975" />
+    <state width="1398" height="410" key="GridCell.Tab.0.bottom" timestamp="1688822861145">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
-    <state width="1398" height="641" key="GridCell.Tab.0.center/0.23.1440.792@0.23.1440.792" timestamp="1688698940405" />
-    <state width="1398" height="641" key="GridCell.Tab.0.left" timestamp="1688698940405">
+    <state width="1398" height="410" key="GridCell.Tab.0.bottom/0.23.1440.792@0.23.1440.792" timestamp="1688822861145" />
+    <state width="1398" height="410" key="GridCell.Tab.0.center" timestamp="1688822861145">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
-    <state width="1398" height="641" key="GridCell.Tab.0.left/0.23.1440.792@0.23.1440.792" timestamp="1688698940405" />
-    <state width="1398" height="641" key="GridCell.Tab.0.right" timestamp="1688698940406">
+    <state width="1398" height="410" key="GridCell.Tab.0.center/0.23.1440.792@0.23.1440.792" timestamp="1688822861145" />
+    <state width="1398" height="410" key="GridCell.Tab.0.left" timestamp="1688822861145">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
-    <state width="1398" height="641" key="GridCell.Tab.0.right/0.23.1440.792@0.23.1440.792" timestamp="1688698940406" />
+    <state width="1398" height="410" key="GridCell.Tab.0.left/0.23.1440.792@0.23.1440.792" timestamp="1688822861145" />
+    <state width="1398" height="410" key="GridCell.Tab.0.right" timestamp="1688822861145">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state width="1398" height="410" key="GridCell.Tab.0.right/0.23.1440.792@0.23.1440.792" timestamp="1688822861145" />
     <state x="221" y="23" key="SettingsEditor" timestamp="1688698905910">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
     <state x="221" y="23" key="SettingsEditor/0.23.1440.792@0.23.1440.792" timestamp="1688698905910" />
+    <state x="320" y="159" key="Vcs.Push.Dialog.v2" timestamp="1688822848709">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state x="320" y="159" key="Vcs.Push.Dialog.v2/0.23.1440.792@0.23.1440.792" timestamp="1688822848709" />
   </component>
 </project>
